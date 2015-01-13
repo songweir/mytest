@@ -6,6 +6,11 @@ abc
 提交更新：
 git commit -m "描述内容"
 
+查看我修改了哪些内容：
+
+跳过暂存区直接提交
+git commit -a -m "描述内容"
+
 推送：
 git remote add origin git@github.com:songweir/mytest.git
 如果提示已存在
@@ -15,4 +20,5 @@ git remote rm origin
 git push origin master
 
 
-#Markdown学习笔记
+
+#Markdown笔记
