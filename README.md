@@ -13,6 +13,7 @@ git commit -a -m "描述内容"
 
 推送：
 git remote add origin git@github.com:songweir/mytest.git
+
 如果提示已存在
 git remote rm origin
 
